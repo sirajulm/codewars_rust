@@ -1,3 +1,4 @@
+pub mod bmi_calculator;
 pub mod boolean_to_string;
 pub mod boolean_to_word;
 pub mod championship_points;
