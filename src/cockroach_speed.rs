@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+
 pub fn cockroach_speed( s : f64 ) -> i64 {
     (s * 250.0/9.0) as i64
 }
