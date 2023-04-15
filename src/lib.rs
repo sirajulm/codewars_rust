@@ -8,3 +8,4 @@ pub mod dna_to_rna;
 pub mod double_integer;
 pub mod greet;
 pub mod third_angle_of_triangle;
+pub mod volume_of_cuboid;
